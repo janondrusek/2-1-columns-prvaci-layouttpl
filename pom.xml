@@ -10,7 +10,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 
 	<properties>
-		<liferay.auto.deploy.dir>D:/Liferay/liferay-portal-6.0.6/deploy/</liferay.auto.deploy.dir>
+		<liferay.auto.deploy.dir>J:/Liferay/liferay-portal-6.0.6/deploy/</liferay.auto.deploy.dir>
 		<liferay.theme.parent>_styled</liferay.theme.parent>
 		<liferay.theme.type>vm</liferay.theme.type>
 		<liferay.version>6.0.6</liferay.version>
